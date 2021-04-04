@@ -1,2 +1,2 @@
 # login
-accounts
+accounts ,registration,login,logout
